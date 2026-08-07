@@ -28,7 +28,7 @@ Projeto desenvolvido como parte do desafio da **DIO**, com foco na construção 
 
 Este repositório apresenta a solução desenvolvida para o desafio de **Power BI** da **DIO**, cujo objetivo foi consolidar os conhecimentos adquiridos durante o curso por meio da criação de dashboards analíticos utilizando a base de dados **Financial Sample**.
 
-Além da reprodução das duas páginas propostas durante as aulas, foi desenvolvida uma terceira página de forma autoral, aplicando boas práticas de visualização de dados, organização do layout e construção de relatórios interativos.
+Além da reprodução das duas páginas propostas durante as aulas, foi desenvolvida uma terceira página proposta, aplicando boas práticas de visualização de dados, organização do layout e construção de relatórios interativos.
 
 ---
 
